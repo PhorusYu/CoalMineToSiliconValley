@@ -4,7 +4,7 @@
 ![banner](https://img.shields.io/badge/493%20points%20trapped%20in%20mining%20engineering-coding%20my%20way%20out-brightgreen)  
 ![status](https://img.shields.io/badge/status-逃离中...-blue)
 
-**2024年夏天，我在四川考了493分。**  
+**2025年夏天，我在四川考了493分。**  
 志愿表全填计算机，却被新疆工程学院调剂到**采矿工程**。  
 本地考生300多分就能上同一所大学、抢走所有计算机名额。  
 那一刻我才明白：有些规则，生来就是要被打破的。
@@ -17,10 +17,10 @@
 
 ### Current Goals（正在死命冲）
 - [ ] 川大计算机考研
-- [ ] 蓝桥杯国一 
+- [ ] 蓝桥杯 
 - [ ] 至少 3 个 AI 硬核项目
 - [ ] GitHub Star 破 500（让全世界知道493分不该烂在煤矿）  
-- [ ] 最终：硅谷 / OpenAI / DeepMind / 回成都当教授，随便哪一个都行
+- [ ] 最终：硅谷 / OpenAI / DeepSeek / 回成都当教授，随便哪一个都行
 
 ### Daily Logs
 
@@ -36,8 +36,7 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-800%2B-orange)
 
 ### License
-[MIT License](LICENSE) —— 随便拿去用，但请记得保留这行字：  
-**“代码作者曾被调剂到采矿工程，但他妈的没认命。”**
+[MIT License](LICENSE)
 
 ---
 
